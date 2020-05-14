@@ -1,2 +1,2 @@
-continuous_integration()
-deploy_to dev
+build()
+static_code_analysis()
